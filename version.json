@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 10,
-  "latestVersionName": "1.0.6",
+  "latestVersionCode": 13,
+  "latestVersionName": "1.0.8",
   "downloadUrl": "https://digital-link-iq.github.io/",
-  "forceUpdate": false,
-  "updateMessage": "اخر تحديث 2026-5-12 مميزات جديدة"
+  "forceUpdate": true,
+  "updateMessage": "اخر تحديث 2026-5-31 تحديث ضروي لحاسبة المنظومة الشمسية"
 }
